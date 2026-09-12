@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Berney Memorabilia",
+    "description": "",
+    "home_page_url": "https://berneymemorabilia.com",
+    "feed_url": "https://berneymemorabilia.com/feed.json",
+    "user_comment": "",
+    "icon": "https://berneymemorabilia.com/media/website/whatsapp-image-2020-01-29-at-10-34-04-am-orig_orig.jpg",
+    "author": {
+        "name": "SB"
+    },
+    "items": [
+    ]
+}
